@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @dan3388
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Fundamentals of Web development as HTML, CSS, and Js
-- 📫 How to reach me danielmendozatorres500@gmail.com
+# Hi, I'm Daniel Mendoza 👋
 
+I'm a **Senior Engineering Student** concentrating in Computer Engineering. Explore my work and see what I've learned along the way.
+
+## About Me 👀
+
+- **Passionate about:**
+    - Embedded systems and hardware-software integration
+    - Problem-solving through engineering design
+    - Open-source hardware/software projects
+    - Digital design and computer architecture
+    - Automation and System optimization
+- **Future Goals:**
+    - Contributing to open-source hardware projects
+    - Developing expertise in Embedded Systems Design, FPGA Programming, and IoT
 <!---
 dan3388/dan3388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
