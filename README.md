@@ -13,7 +13,7 @@ I'm a **Senior Engineering Student** concentrating in Computer Engineering. Expl
 - **Future Goals:**
     - Contributing to open-source hardware projects
     - Developing expertise in Embedded Systems Design, FPGA Programming, and IoT
-- **Current Work: **
+- **Current Work:**
     - Pico-ice FPGA programming: Creating an audio signal processor like a Guitar Pedal while learning about FPGA programming and audio signals.
     - Open-Acidification's Alkalinity Titrator: Working on an automated Titration Device for WWU's Biology Department's open source project suite. 
 ---
