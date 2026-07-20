@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Mendoza 👋
 
-I'm a **Senior Engineering Student** concentrating in Computer Engineering. Explore my work and see what I've learned along the way.
+I'm Computer Engineering graduate. Explore my work and see what I've learned along the way.
 
 ## About Me 👀
 
